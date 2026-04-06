@@ -1,0 +1,28 @@
+# Сборка PyInstaller
+build/
+dist/
+*.spec
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Файлы настроек (если создаются при запуске)
+game_settings.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи
+*.log
